@@ -1,70 +1,135 @@
-# Getting Started with Create React App
+<!--
+*** Hi I'm Mahmudul Hasan Pranto
+*** Thanks for checking out this Project. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** Thanks again! :D
+-->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+<br />
+<p align="center">
+  <a href="https://github.com/MHasanPranto/To-Dos">
+    <img src="./public/favicon.ico" alt="Logo" width="80" height="80">
+  </a>
 
-### `npm start`
+  <h3 align="center">To Do List</h3>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <p align="center">
+    To do list is a web application projects!
+  </p>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>   
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## About The Project
 
-### `npm run build`
+![website-screenshot]
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+The To do list is a web application made with React.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Built With
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [React js](https://reactjs.org/)
+* [CSS](https://www.w3schools.com/css/)
+* [Node js](https://nodejs.org/en/)
+* [json](https://www.npmjs.com/package/json-server)
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Getting Started
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+This is an explination of how you setting up this project locally.
+To get a local copy up and running follow these simple example steps.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Prerequisites
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+This is the list of software u need.
+* Node js
+  ```sh
+  Download Node js and install it.
+  ```
+* Browser
+  You definately have any browser install for up running.
 
-## Learn More
+### Installation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Clone the repo in
+   In the console type:
+   ```sh
+   cd your_folder_path_where_you_want_to_clone
+   ```
+   ```sh
+   git clone https://github.com/MHasanPranto/To-Dos.git
+   ```
+2. To run the poject:
+   ```sh
+   npm start
+   ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Usage
 
-### Code Splitting
+Use this project to inhance your skill. Adding new thing to this project can make this amaizing.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-### Making a Progressive Web App
+1. Fork the Project
+2. Create your Update Branch (`git checkout -b update/Mychange`)
+3. Commit your Changes (`git commit -m 'Add some Changes'`)
+4. Push to the Branch (`git push origin update/Mychange`)
+5. Open a Pull Request
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Distributed under the MIT License. See `LICENSE` for more information.
 
-### Deployment
+## Contact
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Mahmudul Hasan Pranto - [Mahmudul Hasan](https://www.linkedin.com/in/mahmudul-hasan-47124b172/) 
 
-### `npm run build` fails to minify
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Project Link: [https://github.com/MHasanPranto/Memories-Chronicle/](https://github.com/MHasanPranto/To-Dos.git)
+
+
+
+
+## Acknowledgements
+* [React js](https://reactjs.org/)
+* [CSS](https://www.w3schools.com/css/)
+* [Node js](https://nodejs.org/en/)
+* [json](https://www.npmjs.com/package/json-server)
+* [Choose an Open Source License](https://choosealicense.com)
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mahmudul-hasan-47124b172/
+[website-screenshot]: todolist.png
