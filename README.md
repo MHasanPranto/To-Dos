@@ -87,7 +87,7 @@ This is the list of software u need.
    ```
 2. To run the poject:
    ```sh
-   npm start
+   npm install && npm start
    ```
 
 ## Usage
